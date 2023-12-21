@@ -1,6 +1,11 @@
-console.log('Hello, JavaScript.');
-console.log(2001);
-console.log("What","do","commas\t","do?");
-console.log("Does", "adding \n",      "space", "matter?");
-console.log('Launch' + 'Code');
-console.log("LaunchCode was founded in", 2013);
+let shuttleName = 'Determination';
+let speed = 17500;
+let distMars = 225000000;
+let distMoon = 384400
+const mpk = 0.621;
+
+console.log(typeof shuttleName);
+console.log(typeof speed);
+console.log(typeof distMars);
+console.log(typeof distMoon);
+console.log(typeof mpk);
