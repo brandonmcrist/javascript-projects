@@ -15,3 +15,4 @@ let timeToMoon = milesToMoon / speed;
 let daysToMoon = timeToMoon / 24;
 
 console.log(shuttleName, " will take ", daysToMoon, " days to reach the Moon.");
+
